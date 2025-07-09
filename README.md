@@ -2,9 +2,6 @@
 
 I'm a passionate and enthusiastic frontend developer with a strong desire to create engaging and user-friendly web experiences. Currently, I’m diving deep into the world of web development, building skills, and crafting projects to enhance my learing experience.
 <br/>
-
-I am currently studying bachalors in Computer Science in Brac University.
-
 ---
 
 ## 🧰 Languages and Tools
